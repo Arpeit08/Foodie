@@ -1,6 +1,23 @@
 # Foodie
 
-This is a webapp made for the OOAD course project, course CSN-291.
+***This is a webapp made for the CSN-291 Object Oriented Analysis and Design course group project.***
+
+## [Video demonstration](https://drive.google.com/file/d/1Sjk4el2S5GuUJ-I2ehbq9HsmvHH15YZ5/view?usp=sharing)
+
+## Tech Stack
+
+   - ReactJS
+   - CSS
+   - Firebase
+
+## Main features
+
+   - Search for recipes based on ingredients the user has entered (supports entering multiple ingredients at a time, separated by a comma).
+   - Add recipes to favorites option.
+   - Profile page for viewing favorites.
+   - Option to delete and clear favorites.
+
+## Setup details
 
 Implementation Details to setup this project on local system (for windows) -
 
